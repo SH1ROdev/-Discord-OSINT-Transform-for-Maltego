@@ -25,10 +25,11 @@ Discord OSINT Transform — это локальная трансформация
 
 ## Быстрый старт
 
-### 1. Скачать образ Docker
+1. Скачать Docker образ
 
 ```bash
 docker pull realsh1ro/maltego-discord:latest
+
 2. Создание трансформации в Maltego
 Поле	          Значение
 Display Name	→ Discord OSINT
