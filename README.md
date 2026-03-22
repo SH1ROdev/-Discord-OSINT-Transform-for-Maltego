@@ -1,7 +1,7 @@
 # Discord OSINT Transform for Maltego
 
 Discord OSINT Transform — это локальная трансформация для Maltego, которая собирает открытую информацию о пользователях Discord через API Discord Sensor.
-[![Discord OSINT Transform Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/shorts/H9T0RFYJEAc)
+[![Discord OSINT Transform Demo]([https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg](https://img.youtube.com/vi/lnDG3lzhnPU/hqdefault.jpg))](https://www.youtube.com/shorts/H9T0RFYJEAc)
 ---
 
 ## Возможности
